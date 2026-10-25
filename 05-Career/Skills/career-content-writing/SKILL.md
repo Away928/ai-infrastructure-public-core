@@ -25,4 +25,4 @@ description: Write evidence-grounded, tailored resume and CV content, cover lett
 - 求职信、冷邮件、教授联系、申请表回答、推荐人和 Offer 回信：阅读 [outreach-and-forms](references/outreach-and-forms.md)。
 - LinkedIn、个人主页与公开项目作品集：阅读 [profile-and-portfolio](references/profile-and-portfolio.md)。
 - 导入旧经历、增加事实、为职位生成定制内容、版本与整稿审批：阅读 [content-versioning](references/content-versioning.md)。
-- 旧版 22 个单独的写作指南只保存在 _System/Archive/05-Career/_Archive 中，不全部加载，也不作为额外 Skills 注册。
+- 本发行版不包含旧版写作指南合集；需要额外材料时由用户提供，不能假设私有归档存在。

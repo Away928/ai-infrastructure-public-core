@@ -5,7 +5,7 @@ description: Verify and maintain career experience claims and supporting evidenc
 
 # Career Fact Verification｜职业事实核验
 
-**唯一职责：确定哪些职业事实可以被引用。** 事实的权威来源是 ~/Work-Space/Career/Resume/experiences/、docs/evidence_index.md 和其指向的原始材料；如与项目状态文件不一致，先核对再使用。Career Skill 不创建第二套经历数据库。
+**唯一职责：确定哪些职业事实可以被引用。** 事实的权威来源应由用户明确指定，例如用户自己的经历事实清单、证据索引与对应原始材料；如与项目状态文件不一致，先核对再使用。Career Skill 不创建第二套经历数据库。
 
 ## 执行
 1. 读取实际 Career 工作区的 README、相关项目状态与经历事实文件，保持历史版本和来源可追溯。

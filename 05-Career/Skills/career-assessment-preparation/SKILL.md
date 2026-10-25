@@ -8,7 +8,7 @@ description: Prepare and practice technical assessments, written tests, intervie
 **唯一职责：提高候选人在筛选评估中的准备质量。** 涵盖笔试、能力测评、技术面试、行为面试、研究助理/教授面试，以及模拟问答与复盘。
 
 ## 执行
-1. 从 ~/Work-Space/Career/Assessments/ 和 Interviews/ 读取现有资料，从 career-opportunity-evaluation 获得岗位能力要求，从 career-fact-verification 获得可以真实讲述的经历。
+1. 从用户指定的笔试和面试准备资料中读取现有内容，从 career-opportunity-evaluation 获得岗位能力要求，从 career-fact-verification 获得可以真实讲述的经历。
 2. 将考核要求转换为知识点/技能清单、练习题与优先级，区分技术、案例、行为及研究讨论；不假设未知的真实题目。
 3. 可开展互动模拟面试，给出证据一致性、论证结构、专业准确度与表达清晰度反馈；任何答案不虚构参与项目、论文或结果。
 4. 对用户提供的答题与面试反馈，形成改进计划及复习材料；保存到现有 Career 工作区需按用户要求执行。

@@ -5,7 +5,7 @@ description: Manage actual application records, submission evidence, stages, dea
 
 # Career Application Tracking｜申请进度管理
 
-**唯一职责：维护求职申请的事实状态与后续行动。** 使用 ~/Work-Space/Career/Applications/ 作为申请文件与记录的权威位置；岗位详情在 Positions/，简历母版在 Resume/。
+**唯一职责：维护求职申请的事实状态与后续行动。** 使用用户指定的申请记录工作区作为唯一权威位置；岗位详情与简历版本也应由用户提供或明确定位。
 
 ## 执行
 1. 在已有项目结构中读取目标公司/教授、岗位、申请版本、链接、截止日、投递日期、当前状态、下一动作和相关回执。

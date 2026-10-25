@@ -45,8 +45,8 @@
     },
     {
       "path": "02-Research/Skills/academic-research/SKILL.md",
-      "sha256": "15c67caabc98d67dce00392b59fceda364ce24f16c5dcf5cff976ed55d6cd596",
-      "bytes": 2614
+      "sha256": "4bf5c1ba10330c18aa828ffb756e09b3b2152c03521f121d02407d453620e66f",
+      "bytes": 2611
     },
     {
       "path": "02-Research/Skills/investment-research/SKILL.md",
@@ -65,8 +65,8 @@
     },
     {
       "path": "03-Development/Skills/development-toolkit/SKILL.md",
-      "sha256": "c8b01db722cf9b7e659edf4d106b0c6339f78baa606d0d9507e2c54a7d1a2d30",
-      "bytes": 2417
+      "sha256": "bc1d2012602106ad70d7637da8f15f46376d770ddf529e75f1a9e0b96124e1ac",
+      "bytes": 2116
     },
     {
       "path": "03-Development/Skills/development-toolkit/skills/engineering-five-step/SKILL.md",
@@ -100,18 +100,18 @@
     },
     {
       "path": "05-Career/Skills/career-application-tracking/SKILL.md",
-      "sha256": "cd77e29d03552fc234a7a6844f16219cc58e6721a3f8083c921684142d1b420b",
-      "bytes": 1969
+      "sha256": "cbda087ea197700ea3110067ea255b8d133d6801ef2014cfb1bd3713fd8f31d8",
+      "bytes": 1963
     },
     {
       "path": "05-Career/Skills/career-application-tracking/references/submission-records.md",
-      "sha256": "265b512b6439cd659237ebb298875223ced8cfaf2cf0a6ffb3a7a9b0cf31349c",
-      "bytes": 1139
+      "sha256": "83cdd280c100572467672813f620e8ce10bd737e932e4410ab15741cc0ae0c6d",
+      "bytes": 1131
     },
     {
       "path": "05-Career/Skills/career-assessment-preparation/SKILL.md",
-      "sha256": "539f9a7518599d07726a4c425981d9ee626d5b23a0e85df65a9f6e2b9869f9e6",
-      "bytes": 1830
+      "sha256": "4c5cf333c25bf465b6260e06cb5bd24316a8cbff52761ac9829e8cec8011bfda",
+      "bytes": 1825
     },
     {
       "path": "05-Career/Skills/career-assessment-preparation/references/mock-interviews.md",
@@ -120,13 +120,13 @@
     },
     {
       "path": "05-Career/Skills/career-content-writing/SKILL.md",
-      "sha256": "aa0f0bbaea72de9ead723d62a9e0c346b43a235c33f2baed1fbd38c070cee88f",
-      "bytes": 2685
+      "sha256": "c945099e0aa4ef870015cec77aa58c3e7109bf31dd16aaa18bc0678b5f9a6d2d",
+      "bytes": 2664
     },
     {
       "path": "05-Career/Skills/career-content-writing/references/content-versioning.md",
-      "sha256": "c255789adac2ad7cf3324cf9ce6739af685e9cd45a9ba7b12109cd5a3722356c",
-      "bytes": 1688
+      "sha256": "b97e54b64f2d15b0ba89e9b521ac85379e24d31cd630c04a1710dc0306c2d4bf",
+      "bytes": 1726
     },
     {
       "path": "05-Career/Skills/career-content-writing/references/outreach-and-forms.md",
@@ -145,8 +145,8 @@
     },
     {
       "path": "05-Career/Skills/career-fact-verification/SKILL.md",
-      "sha256": "674e6b27d2fc8b9aaf30f981cd6c8657357bb526ac104bd749d6b19d65f71d4b",
-      "bytes": 2044
+      "sha256": "72428df6c22fc23385ab2f5b488e99b454e0ded84d2d485198f29bdda93cf75a",
+      "bytes": 2050
     },
     {
       "path": "05-Career/Skills/career-fact-verification/references/verified-metrics.md",
@@ -155,8 +155,8 @@
     },
     {
       "path": "05-Career/Skills/career-opportunity-evaluation/SKILL.md",
-      "sha256": "e342479044d47e719a41fad071a8b0493342555538b92d396d8f64c461700b23",
-      "bytes": 2188
+      "sha256": "af522e51ce10ce424b5f7dd80db999b57a97ee9c633fa97429388ec8a020ed9c",
+      "bytes": 2210
     },
     {
       "path": "05-Career/Skills/career-opportunity-evaluation/references/offer-decision.md",
@@ -219,19 +219,29 @@
       "bytes": 0
     },
     {
+      "path": "CONTRIBUTING.md",
+      "sha256": "046af9840ef283289d986357e8754c71cf48a4e30ec967e173dd0ba064a40653",
+      "bytes": 1309
+    },
+    {
       "path": "LICENSE",
       "sha256": "67b3052d91d092774c66b6e58cf0bb2c27642fee87b1f6ca0780b711070470d4",
       "bytes": 1064
     },
     {
-      "path": "PUBLICATION_GATE.md",
-      "sha256": "ad003eee2974727484d9ca7bb7aeff58473424a2ae1f47d50745d011192b77bd",
-      "bytes": 631
+      "path": "README.md",
+      "sha256": "ae5efb7e7d6a5ec93f08716e20c9b8c04993b24af9c2886b63ac35a24879e43b",
+      "bytes": 5718
     },
     {
-      "path": "README.md",
-      "sha256": "9a1fc1294d5589feb1f90f6df3e1ee4a2abfb61f987bfaa882f24348207ec7b9",
-      "bytes": 1770
+      "path": "RELEASE_SCOPE.md",
+      "sha256": "b4dd45eb337e84c3edadfdb88929ad0b4def5a715403bc500ac16f0fe74b4686",
+      "bytes": 1245
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "4e1b94be731525ebef737ee2d227ea33dd3a93bb3f0224a2e8fefebcf3d9927c",
+      "bytes": 1162
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
