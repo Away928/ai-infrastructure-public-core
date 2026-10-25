@@ -1,0 +1,92 @@
+{
+  "schema": "public-core/v1",
+  "categories": [
+    "01-Information-Acquisition",
+    "02-Research",
+    "03-Development",
+    "04-Media",
+    "05-Career",
+    "06-Documents",
+    "07-Knowledge-Management",
+    "08-Special"
+  ],
+  "skill_count": 11,
+  "included": [
+    {
+      "skill": "02-Research/Skills/academic-research",
+      "files": [
+        "02-Research/Skills/academic-research/SKILL.md"
+      ]
+    },
+    {
+      "skill": "02-Research/Skills/investment-research",
+      "files": [
+        "02-Research/Skills/investment-research/SKILL.md"
+      ]
+    },
+    {
+      "skill": "03-Development/Skills/development-toolkit",
+      "files": [
+        "03-Development/Skills/development-toolkit/SKILL.md",
+        "03-Development/Skills/development-toolkit/skills/engineering-five-step/SKILL.md"
+      ]
+    },
+    {
+      "skill": "05-Career/Skills/career-opportunity-evaluation",
+      "files": [
+        "05-Career/Skills/career-opportunity-evaluation/SKILL.md",
+        "05-Career/Skills/career-opportunity-evaluation/references/offer-decision.md",
+        "05-Career/Skills/career-opportunity-evaluation/references/role-fit.md"
+      ]
+    },
+    {
+      "skill": "05-Career/Skills/career-content-writing",
+      "files": [
+        "05-Career/Skills/career-content-writing/SKILL.md",
+        "05-Career/Skills/career-content-writing/references/content-versioning.md",
+        "05-Career/Skills/career-content-writing/references/outreach-and-forms.md",
+        "05-Career/Skills/career-content-writing/references/profile-and-portfolio.md",
+        "05-Career/Skills/career-content-writing/references/resume-content.md"
+      ]
+    },
+    {
+      "skill": "05-Career/Skills/career-fact-verification",
+      "files": [
+        "05-Career/Skills/career-fact-verification/SKILL.md",
+        "05-Career/Skills/career-fact-verification/references/verified-metrics.md"
+      ]
+    },
+    {
+      "skill": "05-Career/Skills/career-application-tracking",
+      "files": [
+        "05-Career/Skills/career-application-tracking/SKILL.md",
+        "05-Career/Skills/career-application-tracking/references/submission-records.md"
+      ]
+    },
+    {
+      "skill": "05-Career/Skills/career-assessment-preparation",
+      "files": [
+        "05-Career/Skills/career-assessment-preparation/SKILL.md",
+        "05-Career/Skills/career-assessment-preparation/references/mock-interviews.md"
+      ]
+    },
+    {
+      "skill": "06-Documents/Skills/HTML/html-page-builder",
+      "files": [
+        "06-Documents/Skills/HTML/html-page-builder/SKILL.md"
+      ]
+    },
+    {
+      "skill": "06-Documents/Skills/PDF/pdf-quality-check",
+      "files": [
+        "06-Documents/Skills/PDF/pdf-quality-check/SKILL.md"
+      ]
+    },
+    {
+      "skill": "07-Knowledge-Management/Skills/knowledge-management",
+      "files": [
+        "07-Knowledge-Management/Skills/knowledge-management/SKILL.md"
+      ]
+    }
+  ]
+}

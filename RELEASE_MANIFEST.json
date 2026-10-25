@@ -1,0 +1,242 @@
+{
+  "version": "0.1.0-rc1",
+  "date": "2026-10-25",
+  "history_inherited": false,
+  "private_or_runtime_data_included": false,
+  "provenance": "curated self-hosted original skills; provenance review pending",
+  "exclusions": [
+    "third party tool repos, local paths, archives and runtime deps"
+  ],
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "8184ba9cbc288c77270af24f48a27486bc5ab6c5d5c34d049292f180f697fff3",
+      "bytes": 308
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "7d3d7a2af501a570c2e3f9f17f800fb211fce37ebbf2d59c7704db45098b1594",
+      "bytes": 71
+    },
+    {
+      "path": "01-Information-Acquisition/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "01-Information-Acquisition/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "02-Research/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "02-Research/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "02-Research/Skills/academic-research/SKILL.md",
+      "sha256": "15c67caabc98d67dce00392b59fceda364ce24f16c5dcf5cff976ed55d6cd596",
+      "bytes": 2614
+    },
+    {
+      "path": "02-Research/Skills/investment-research/SKILL.md",
+      "sha256": "bd80e4150383efc597db29b1fcab1980b8410a927c69bd387cc014718c950d08",
+      "bytes": 3619
+    },
+    {
+      "path": "03-Development/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "03-Development/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "03-Development/Skills/development-toolkit/SKILL.md",
+      "sha256": "c8b01db722cf9b7e659edf4d106b0c6339f78baa606d0d9507e2c54a7d1a2d30",
+      "bytes": 2417
+    },
+    {
+      "path": "03-Development/Skills/development-toolkit/skills/engineering-five-step/SKILL.md",
+      "sha256": "d2cf521f9239cf26e4444bda6ee6f12c32398cdb3224568396de1eb9efd80495",
+      "bytes": 3319
+    },
+    {
+      "path": "04-Media/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "04-Media/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "04-Media/Skills/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "05-Career/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "05-Career/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "05-Career/Skills/career-application-tracking/SKILL.md",
+      "sha256": "cd77e29d03552fc234a7a6844f16219cc58e6721a3f8083c921684142d1b420b",
+      "bytes": 1969
+    },
+    {
+      "path": "05-Career/Skills/career-application-tracking/references/submission-records.md",
+      "sha256": "265b512b6439cd659237ebb298875223ced8cfaf2cf0a6ffb3a7a9b0cf31349c",
+      "bytes": 1139
+    },
+    {
+      "path": "05-Career/Skills/career-assessment-preparation/SKILL.md",
+      "sha256": "539f9a7518599d07726a4c425981d9ee626d5b23a0e85df65a9f6e2b9869f9e6",
+      "bytes": 1830
+    },
+    {
+      "path": "05-Career/Skills/career-assessment-preparation/references/mock-interviews.md",
+      "sha256": "fa31ec0c7f155aabab10c110363a59886d6e486e1a5b796951e6dcd64ddf56a7",
+      "bytes": 1221
+    },
+    {
+      "path": "05-Career/Skills/career-content-writing/SKILL.md",
+      "sha256": "aa0f0bbaea72de9ead723d62a9e0c346b43a235c33f2baed1fbd38c070cee88f",
+      "bytes": 2685
+    },
+    {
+      "path": "05-Career/Skills/career-content-writing/references/content-versioning.md",
+      "sha256": "c255789adac2ad7cf3324cf9ce6739af685e9cd45a9ba7b12109cd5a3722356c",
+      "bytes": 1688
+    },
+    {
+      "path": "05-Career/Skills/career-content-writing/references/outreach-and-forms.md",
+      "sha256": "032ace673245ac7dae4b055f8d63c64d08824747e79430be1da0a4287f60b006",
+      "bytes": 1857
+    },
+    {
+      "path": "05-Career/Skills/career-content-writing/references/profile-and-portfolio.md",
+      "sha256": "02ee14585aef1dca909170b0b63817bcfd8d47bd654966f4d95aa84e4e8b5484",
+      "bytes": 1479
+    },
+    {
+      "path": "05-Career/Skills/career-content-writing/references/resume-content.md",
+      "sha256": "871b4cc1c57738c6ee0b9925bf311a346d4d26cfe93b412d60745fd13e8c0ef0",
+      "bytes": 2408
+    },
+    {
+      "path": "05-Career/Skills/career-fact-verification/SKILL.md",
+      "sha256": "674e6b27d2fc8b9aaf30f981cd6c8657357bb526ac104bd749d6b19d65f71d4b",
+      "bytes": 2044
+    },
+    {
+      "path": "05-Career/Skills/career-fact-verification/references/verified-metrics.md",
+      "sha256": "5b619b61368e011e4b7d371e0094639e129ce76455fb1ea9db741ae334b0a2b1",
+      "bytes": 2181
+    },
+    {
+      "path": "05-Career/Skills/career-opportunity-evaluation/SKILL.md",
+      "sha256": "e342479044d47e719a41fad071a8b0493342555538b92d396d8f64c461700b23",
+      "bytes": 2188
+    },
+    {
+      "path": "05-Career/Skills/career-opportunity-evaluation/references/offer-decision.md",
+      "sha256": "a044eeca582d7229dd72f133aa6db052a54b019dcac7dd256c45c678877e142b",
+      "bytes": 1674
+    },
+    {
+      "path": "05-Career/Skills/career-opportunity-evaluation/references/role-fit.md",
+      "sha256": "ead625e219e00b3439df27c13157a5d66e6aa0d8da1bcef69ce232a872256e62",
+      "bytes": 1855
+    },
+    {
+      "path": "06-Documents/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "06-Documents/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "06-Documents/Skills/HTML/html-page-builder/SKILL.md",
+      "sha256": "96e5b4fab75dc1de733199248d232bda70157bbb7f5d77577816a87734eb717d",
+      "bytes": 1515
+    },
+    {
+      "path": "06-Documents/Skills/PDF/pdf-quality-check/SKILL.md",
+      "sha256": "6d59725cbe85d98bbfa7619fe73c4151c030c23232c2599e0ace57b1076081e1",
+      "bytes": 1756
+    },
+    {
+      "path": "07-Knowledge-Management/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "07-Knowledge-Management/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "07-Knowledge-Management/Skills/knowledge-management/SKILL.md",
+      "sha256": "84f5be06da5ce508d6f1c58d6a7f470a53fcdb39469f3a9044cd8798f9aab04c",
+      "bytes": 2683
+    },
+    {
+      "path": "08-Special/MCPs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "08-Special/Plugins/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "67b3052d91d092774c66b6e58cf0bb2c27642fee87b1f6ca0780b711070470d4",
+      "bytes": 1064
+    },
+    {
+      "path": "PUBLICATION_GATE.md",
+      "sha256": "ad003eee2974727484d9ca7bb7aeff58473424a2ae1f47d50745d011192b77bd",
+      "bytes": 631
+    },
+    {
+      "path": "README.md",
+      "sha256": "9a1fc1294d5589feb1f90f6df3e1ee4a2abfb61f987bfaa882f24348207ec7b9",
+      "bytes": 1770
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "08d9a00dae77bf6154d7e5272e08cc42d89ca938d12711b50ce88ad3a3b835a3",
+      "bytes": 1304
+    },
+    {
+      "path": "catalog.json",
+      "sha256": "7a491eb57887285e3fafad5eeeca26f3f838e36c506c0eb5d36ed692e856fbf3",
+      "bytes": 2905
+    },
+    {
+      "path": "scripts/verify_release.py",
+      "sha256": "598a3491e4e83c7235182ac31fc1b6391cbdd9058d8efcc8cdb467e179f3d624",
+      "bytes": 1778
+    }
+  ]
+}
