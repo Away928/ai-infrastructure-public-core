@@ -64,6 +64,8 @@ Bug reports, broken paths, improved examples, and focused capability proposals a
 
 ## 中文简介
 
+**项目状态**：持续开发中。后续将持续完善功能、文档及实际应用案例。
+
 AI Infrastructure 是一个按能力组织的 AI 工作流工具体系，帮助把研究、开发、求职、文档处理与知识管理中的可复用方法整理为 AI Agent 能够遵循的 Skills。
 
 ### 能力模块
