@@ -64,11 +64,22 @@ Bug reports, broken paths, improved examples, and focused capability proposals a
 
 ## 中文简介
 
-AI Infrastructure Public Core 是一个**按能力分类的 AI 工作流 Skill 集合**，而不是可一键安装的完整 Agent 平台。
+AI Infrastructure 是一个按能力组织的 AI 工作流工具体系，帮助把研究、开发、求职、文档处理与知识管理中的可复用方法整理为 AI Agent 能够遵循的 Skills。
 
-- 当前提供 **11 个精选 Skill**，覆盖研究、开发、求职、文档和知识管理。
-- 八个板块的目录统一保留 `Skills / Plugins / MCPs`；空目录只是分类占位，不代表服务已经实现。
-- 使用 `python3 scripts/verify_release.py` 检查发行包；选择所需的 `SKILL.md` 阅读并按所用客户端的规范安装。
-- 私有配置、用户资料、第三方完整项目与模型密钥均不在发行包中。
+### 能力模块
 
-欢迎通过 Issues 提交可复现的问题。该版本属于 **v0.1 公开核心预发布版**，后续功能会在经过验证和授权后逐步加入。
+当前公开版本包含 **11 个 Skills**，覆盖：
+
+1. **研究（Research）**：学术研究与投资研究。
+2. **开发（Development）**：通用开发与工程实践。
+3. **求职（Career）**：机会评估、事实核查、内容撰写、申请追踪与测评准备。
+4. **文档（Documents）**：HTML 页面构建与 PDF 质量检查。
+5. **知识管理（Knowledge Management）**：知识整理与审核后的更新。
+
+### 如何使用
+
+- **浏览 Skills**：从上方 [Skills 目录](catalog.json) 选择需要的能力，阅读对应的 `SKILL.md`。
+- **在 AI Agent 中使用**：按照所用 AI 客户端的 Skill 安装方式，导入选定的 Skill，并自行配置需要的外部工具。
+- **本地检查**：克隆仓库后运行 `python3 scripts/verify_release.py`。
+
+这是可复用 Skills 的公开核心版本，不包含完整的私人 AI 环境、第三方插件或 MCP 服务。
